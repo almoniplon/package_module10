@@ -1,5 +1,13 @@
 language: python
 python:
-  - "3.7"
+- '3.7'
 script:
-  - nose2 -v
+- nose2 -v
+deploy:
+  provider: pypi
+  username: refael.kohen
+  password:
+    secure: Z6YWaZXqb0Ei53X/bS0pmdXdxqHB9Xl8Rqh+QZxBQj4sw88am8nAouhDEbJy2WhQn1Kkd35ItdsZTcug30yNsoOvQN6orbEf7ky+eArlZUh6Kn6aZiGE4ni6RuCmatWTk4yUrVjYyBEn+y1hsBDGBTHLhgVORnsna+63O57RGMze3vgjdjIeRjhZItfWW0jKX9ZWj2QUfseQe0c0k/r1gz9Zb8mJpiYpIxca2ov6Czs3bkxri0gw/4olRUaN+r9ZBchHuBzJAFh0QAN68tQy759h+ui++2GJG++lLsR6PVyhBh4IPdXb8w7glU52SHTXksQ+sAy32gQ855cNhMq7LwDnKOvyED8Ku66oBQp3y5bh9CZs8U/x/2sHkO4W04XmGQ6Walrh6WU3FfGUSVv1kj7vX4X64bJ/rnC4JU3DpNl48u6x4nIplzNuXy0ABaLMdM/C4faaUl7Lw0QuHACT1E+37opCMPl1N6yBlB7nzYCALBzFeEPKUr5ZnlMVJSdLYtb7wTbhTzpg1RgO2pJYIYixtUdKAmt443+K0F+obIvFVJQEigJKEtKbCmf4g4zGrQQ0GTe8/X2RJ/1gOSRgWSKlAnpdnEV4/VKn9Jzm+w1NtoVQ6tskT6TQ5c9wg8mv/oSFFRqMW/gd99PB6P4mMJ9U50og2HefSvktWdc+zKE=
+  server: https://test.pypi.org/simple/
+true:
+  branch: production
