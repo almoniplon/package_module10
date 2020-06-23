@@ -5,7 +5,7 @@ script:
 - nose2 -v
 deploy:
   provider: pypi
-  username: "refaelkohen"
+  username: refaelkohen
   password:
-    secure: "fTiVJAuRzcMkPBXd5zn9m55PGtLl+f5BrBMhrbA5sCZ3blhoCo5+pIcyhMIzax0HMtNcGF9BReUeIRwpCJesmzhjE+vgIAy2PASScBeg1YZLq+rXQDBlxuyreZ8nqPhGdZznuUGen1V7rRZxbqIqZa3+nfJ4+gRsW3ZvRC5Q             iI1MWxf2jaGg3YbrKkZMVhTIihxqu7yRHG5XY7sN7vNZQFxEfDXPF83lMlz365Pqu2dlMAa1aZ69Mm4GSZ1HdSqdLsTy/zXT0pmx997u1dHFViDHAWWyo+rPhEpHdQwVRmjyVFmfaO3AaOsaa4Yw+yPQYSclKx4zwbgWCBBk12mUikuy             UC6Rpml8JYhnlL9iRyw6fT9NJhbIAWdGltvwwFuux3AgEvFacQjEhV1+cO9DILK5djYc9alpz1Dh2ZpautaSH3xqVednn7jWG9qscgGxoLmq69NYQC9hN8blso2t7R6B0fc17sEuNYwo3AHdbKLSEf6bPfoz3+j1Yurw4qunrD0jx85b             yKzbrUV5WJ1v/GZC4UbdaG99LtZBrupaXjhaGZqmEZGOKmagKtx1BTzrBTssS8aaHhjqeuwTchZU4c4rNWq8ltohfMqqal4lTw7UL2hcwGGNXuDE2nz2KTl+f6fkJr4ql8grtxbt25XvuLld3uKC246eoCrvZJCVZ+4="
+    secure: HXYD54gXx+MNXa1m7mKKlLkdFLH3QkaHRaDySC3ipzwTi1V84eGrLOKNftbJdAa6nBiyfdxyTUJd9ihuHPpVPXM4+jNf4asgHjfEZFQig6YiWTS92/j2IUoTf4gn+/nP9qVN9nHm0Yx9ZxnK62p3Mf0kLdpEXnZ0LbPXx8IKsHztuYr1uIXZ4pNxpUxgP/5kTgJKRpt+RVcDni2Q/q4fqorqRIozCPGpCjQVZioOOdiQJZIEvKDMx+It7wMNwG+APBbRWsTXA8+gaYYKH0zDDd2dlu8z2vqW2oCG+q+dt8me/CT12MbeRGWCDY1TzKZ3SYRGlSq/gAnLfBZG/XY7XQsolEWh55BtkUqrmZvtj3GXkyXBPKvcVkoGOv+0q7v/6e/+fOQMq8Q6AD9ZLyGMvuNgLL9Gk1Vz3ycAGPvc4UUOHd40TL5wSyFkolzldL1EJSNnp1MsZy+Bvx3XF8DM/G39Hklqpty6HIgB+yy+aop1dMCpyiFWzaP6sgf4Sozf8ciPa5O2YK+Hz2rnvB7kHK9vVJyqjBHAJ1HSlh593KIRVosf+v2wTICZmAICVx4WI0+6bSJAeSPn+jJawK2SYyL0r41/4y3ZuCTWSE8IOu4UrRc67EBhfXNweY8jQB9siVAyZyvXxD3z49eG9unf2TXSCQTJF3HwOnEug71TeRU=
   server: https://test.pypi.org/legacy/
