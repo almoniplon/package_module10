@@ -7,4 +7,4 @@ deploy:
   provider: pypi
   username: refael.kohen
   password: TRIVIAL1234
-  server: testpypi
+  server: https://test.pypi.org/simple/
