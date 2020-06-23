@@ -7,4 +7,4 @@ deploy:
   provider: pypi
   username: "refaelkohen"
   password: "TRIVIAL1234"
-  server: https://test.pypi.org/simple/
+  server: https://test.pypi.org/legacy/
