@@ -6,8 +6,5 @@ script:
 deploy:
   provider: pypi
   username: "refaelkohen"
-  password: "secure: fTiVJAuRzcMkPBXd5zn9m55PGtLl+f5BrBMhrbA5sCZ3blhoCo5+pIcyhMIzax0HMtNcGF9BReUeIRwpCJesmzhjE+vgIAy2PASScBeg1YZLq+rXQDBlxuyreZ8nqPhGdZznuUGen1V7rRZxbqIqZa3+nfJ4+gRsW3ZvRC5Q
-             iI1MWxf2jaGg3YbrKkZMVhTIihxqu7yRHG5XY7sN7vNZQFxEfDXPF83lMlz365Pqu2dlMAa1aZ69Mm4GSZ1HdSqdLsTy/zXT0pmx997u1dHFViDHAWWyo+rPhEpHdQwVRmjyVFmfaO3AaOsaa4Yw+yPQYSclKx4zwbgWCBBk12mUikuy
-             UC6Rpml8JYhnlL9iRyw6fT9NJhbIAWdGltvwwFuux3AgEvFacQjEhV1+cO9DILK5djYc9alpz1Dh2ZpautaSH3xqVednn7jWG9qscgGxoLmq69NYQC9hN8blso2t7R6B0fc17sEuNYwo3AHdbKLSEf6bPfoz3+j1Yurw4qunrD0jx85b
-             yKzbrUV5WJ1v/GZC4UbdaG99LtZBrupaXjhaGZqmEZGOKmagKtx1BTzrBTssS8aaHhjqeuwTchZU4c4rNWq8ltohfMqqal4lTw7UL2hcwGGNXuDE2nz2KTl+f6fkJr4ql8grtxbt25XvuLld3uKC246eoCrvZJCVZ+4="
+  password: "secure: fTiVJAuRzcMkPBXd5zn9m55PGtLl+f5BrBMhrbA5sCZ3blhoCo5+pIcyhMIzax0HMtNcGF9BReUeIRwpCJesmzhjE+vgIAy2PASScBeg1YZLq+rXQDBlxuyreZ8nqPhGdZznuUGen1V7rRZxbqIqZa3+nfJ4+gRsW3ZvRC5Q             iI1MWxf2jaGg3YbrKkZMVhTIihxqu7yRHG5XY7sN7vNZQFxEfDXPF83lMlz365Pqu2dlMAa1aZ69Mm4GSZ1HdSqdLsTy/zXT0pmx997u1dHFViDHAWWyo+rPhEpHdQwVRmjyVFmfaO3AaOsaa4Yw+yPQYSclKx4zwbgWCBBk12mUikuy             UC6Rpml8JYhnlL9iRyw6fT9NJhbIAWdGltvwwFuux3AgEvFacQjEhV1+cO9DILK5djYc9alpz1Dh2ZpautaSH3xqVednn7jWG9qscgGxoLmq69NYQC9hN8blso2t7R6B0fc17sEuNYwo3AHdbKLSEf6bPfoz3+j1Yurw4qunrD0jx85b             yKzbrUV5WJ1v/GZC4UbdaG99LtZBrupaXjhaGZqmEZGOKmagKtx1BTzrBTssS8aaHhjqeuwTchZU4c4rNWq8ltohfMqqal4lTw7UL2hcwGGNXuDE2nz2KTl+f6fkJr4ql8grtxbt25XvuLld3uKC246eoCrvZJCVZ+4="
   server: https://test.pypi.org/legacy/
