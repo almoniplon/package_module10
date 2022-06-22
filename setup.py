@@ -3,7 +3,7 @@ import setuptools
 with open("README", "r") as fh:
     long_description = fh.read()
 
-requires = ['numpy==1.18.4', 'pandas==1.0.4'] #==0.22.0
+requires = ['numpy==1.22.0', 'pandas==1.0.4'] #==0.22.0
 
 setuptools.setup(
     # required
